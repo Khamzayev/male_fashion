@@ -139,4 +139,4 @@ CKEDITOR_CONFIGS = {
     },
 }
 
-AUTH_USER_MODEL = "users.UserModel"
+AUTH_USER_MODEL = "users.User"

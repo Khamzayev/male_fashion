@@ -4,6 +4,3 @@ from django.db.models import Sum
 from django.utils.translation import gettext_lazy as _
 from django.utils import timezone
 from ckeditor_uploader.fields import RichTextUploadingField
-
-UserModel = get_user_model
-
